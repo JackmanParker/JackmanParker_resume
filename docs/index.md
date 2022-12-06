@@ -18,7 +18,7 @@ Computer science major at BYUI.
 
 ## Education
 
-`Expected 2024`
+`Graduation 2024`
 **Brigham Young University - Idaho**, Rexburg, ID
 
 - 4.0 Major GPA
@@ -28,7 +28,7 @@ Computer science major at BYUI.
 ### Internships
 
 `January 2022 - April 2022`
-**Rocky Mountain Diabetics**, IdahoFalls, ID
+**Rocky Mountain Diabetics**, Idaho Falls, ID
 
 - Worked in the medical records pulling data and sorting through patents to find eligible subjects.
 - Spent plenty of time going through and inputing new data for studies we worked on.
