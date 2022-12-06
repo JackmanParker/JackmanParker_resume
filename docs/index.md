@@ -39,11 +39,12 @@ Computer science major at BYUI.
 
 ## Service and Work History
 
-`2025-2027`
+`2022`
 **Medical Data Entry**, RMDB
 
 `2019-2021`
 **Missionary Work**, Atlanta GA
+`2022`
 **New student Mentor**, Rexburg ID
 
 <!-- ### Footer
