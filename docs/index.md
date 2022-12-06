@@ -33,10 +33,6 @@ Computer science major at BYUI.
 - Worked in the medical records pulling data and sorting through patents to find eligible subjects.
 - Spent plenty of time going through and inputing new data for studies we worked on.
 
-### Data Science Lead
-
-### Data Science Consulting Team
-
 ## Service and Work History
 
 `2022`
@@ -44,6 +40,7 @@ Computer science major at BYUI.
 
 `2019-2021`
 **Missionary Work**, Atlanta GA
+
 `2022`
 **New student Mentor**, Rexburg ID
 
