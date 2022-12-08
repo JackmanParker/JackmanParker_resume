@@ -5,7 +5,7 @@ title: Parker Jackman's Resume
 
 # Parker Jackman
 
-Computer science major at BYUI.
+## Computer science major at BYUI.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">Jackman.Parker@gmail.com</a>
@@ -22,6 +22,7 @@ Computer science major at BYUI.
 **Brigham Young University - Idaho**, Rexburg, ID
 
 - 4.0 Major GPA
+
 
 ## Related Experience
 
@@ -43,6 +44,9 @@ Computer science major at BYUI.
 
 `2022`
 **New student Mentor**, Rexburg ID
+
+`Whole Life`
+**Ladies Man**, Everywhere
 
 <!-- ### Footer
 
